@@ -1,7 +1,7 @@
 # Performance Budgets
 
 ## Intro
-From [Mobile World Congress](Mobile World Congress 19):
+From [Mobile World Congress](https://www.mwcbarcelona.com/):
 * 1s delay loading can impact conversion by as much as 20%! 
 * \>50% of visitors leave if it takes >3s to load. 
 
