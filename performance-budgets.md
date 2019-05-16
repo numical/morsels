@@ -2,13 +2,14 @@
 
 ## Intro
 From Fuencisla Clemares, MD of Google Spain & Portugal, at [Mobile World Congress](https://www.mwcbarcelona.com/):
+* Mobile web now more traffic than desktop but conversion on desktop is 2x mobile. Why...? Speed!
 * 1s delay loading can impact conversion by as much as 20%! 
 * \>50% of visitors leave if it takes >3s to load. 
 
 Performance is important.  
 Yet it is usually seen as a 'techie' issue only, relegated to some company standards document.  
 How do we get business / product owners etc. to take into account performance in their prioritisation and scoping?  
-How can we persuafe then to pay for the addiitonal effort?  
+How can we persuade them to pay for the addiitonal effort?  
 The answer - performance budgets!
 
 ## Definition
