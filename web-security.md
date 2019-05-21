@@ -66,6 +66,8 @@ The definitive resource:
  
 ## XSS
 * Cross Site Scripting
-* Worth a document of its own!
+* Injecting javascript onto pages to bypass [same origin policy](https://en.wikipedia.org/wiki/Same-origin_policy)
+* Whole ranges of techniques - social engineering;
+* Appropriately a whole range of mitigating mechanisms from simple (HTML encoding) to techniques listed above.
 
  
