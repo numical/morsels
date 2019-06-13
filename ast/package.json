@@ -1,0 +1,16 @@
+{
+  "name": "ast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parse.js",
+  "scripts": {
+    "parse": "node parse.js example.js",
+    "lint": "eslint --rulesdir rules/ example.js",
+    "lint:fix": "eslint --fix --rulesdir rules/ example.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "espree": "5.0.1"
+  }
+}

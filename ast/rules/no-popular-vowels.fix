@@ -1,0 +1,19 @@
+module.exports = {
+  meta: {
+    fixable: "code"
+  },
+  create: context => ({
+    'VariableDeclarator > Identifier': node => {
+      const { name } = node;
+      if (name.includes('e')) {
+        context.report({
+          node,
+          message: `variable '${name}' has an 'e'`,
+          fix: fixer => {
+            return fixer.replaceText(node, name.replace('e', 'u'));
+          }
+        })
+      }
+    }
+  })
+};
